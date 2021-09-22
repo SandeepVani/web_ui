@@ -4,7 +4,7 @@
 
 [Showcase Your Medium Articles with Web Components: Part 2 — Data Flow](https://javascript.plainenglish.io/build-your-own-blog-portfolio-with-web-components-data-flow-6c1a8f09c252).
 
-[Showcase Your Medium Articles with Web Components: Part 3 — Webpack](https://javascript.plainenglish.io/build-your-own-blog-portfolio-with-web-components-data-flow-6c1a8f09c252).
+[Showcase Your Medium Articles with Web Components: Part 3 — Webpack](https://javascript.plainenglish.io/build-your-own-blog-portfolio-with-web-components-webpack-4f35c8e5d2a9).
 
 # Demo
 
