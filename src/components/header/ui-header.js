@@ -69,7 +69,6 @@ export class Header extends HTMLElement {
   }
 
 render() {
-    console.log("dedede");
     this.shadowRoot.innerHTML = `
     ${css}
     <div class="navbar">
