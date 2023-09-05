@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "main": "appModules.js",
   "module": "appModules.js",
-  "repository": "https://github.com/MariusBongarts/medium-portfolio-3.git",
+  "repository": "https://github.com/SandeepVani/web_ui.git",
   "author": "Sandeep Vani",
   "license": "MIT",
   "scripts": {
